@@ -16,3 +16,4 @@ models/
 Thumbs.db
 pyvenv.cfg
 submission.csv
+input_data/test.csv
