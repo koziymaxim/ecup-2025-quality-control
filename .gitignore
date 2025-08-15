@@ -1,0 +1,17 @@
+ecup-2025-quality-control/
+bin/
+lib/
+lib64
+
+__pycache__/
+*.pyc
+
+.ipynb_checkpoints/
+
+data/
+
+models/
+
+.DS_Store
+Thumbs.db
+pyvenv.cfg
